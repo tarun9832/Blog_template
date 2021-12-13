@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0; 
+  }
+body{
+    background: url(mountain.png);
+}
+.status 
+{
+text-align: center;
+font-size: 80px;
+color: orange;
+font-family: sans-serif;
+}
